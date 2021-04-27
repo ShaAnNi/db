@@ -1,179 +1,175 @@
 {
-    "posts": [{
-        "id": 1,
-        "title": "Post 1"
-    }],
     "profile": {
         "name": "typicode"
     },
-    "albums": [{
-            "userId": 1,
-            "id": 1,
-            "title": "quidem molestiae enim"
-        },
-        {
-            "userId": 1,
-            "id": 2,
-            "title": "sunt qui excepturi placeat culpa"
-        },
-        {
-            "userId": 2,
-            "id": 3,
-            "title": "omnis laborum odio"
-        }
-    ],
     "users": [{
-            "id": 1,
+            "id": "1",
             "name": "Leanne Graham",
             "username": "Bret"
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Ervin Howell",
             "username": "Antonette"
         }
     ],
+    "albums": [{
+            "userId": "1",
+            "id": "1",
+            "title": "quidem molestiae enim"
+        },
+        {
+            "userId": "1",
+            "id": "2",
+            "title": "sunt qui excepturi placeat culpa"
+        },
+        {
+            "userId": "2",
+            "id": "3",
+            "title": "omnis laborum odio"
+        }
+    ],
     "photos": [{
-            "albumId": 1,
-            "id": 1,
+            "albumId": "1",
+            "id": "1",
             "title": "accusamus beatae ad facilis cum similique qui sunt",
             "url": "https://www.pavelin.ru/images/stories/bslon/7777777777777777777777a-01-1.jpg"
         },
         {
-            "albumId": 1,
-            "id": 2,
+            "albumId": "1",
+            "id": "2",
             "title": "reprehenderit est deserunt velit ipsam",
             "url": "https://img11.postila.ru/data/61/4b/44/0c/614b440cb2a73ea66b1b65fc0014bcb6df4b426a8143778a1b96be40bc8d8965.jpg"
         },
         {
-            "albumId": 1,
-            "id": 3,
+            "albumId": "1",
+            "id": "3",
             "title": "officia porro iure quia iusto qui ipsa ut modi",
             "url": "https://tsdbklimovo.ru/wp-content/uploads/2020/06/ookean2.jpg"
         },
         {
-            "albumId": 1,
-            "id": 4,
+            "albumId": "1",
+            "id": "4",
             "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
             "url": "https://i.artfile.ru/2880x1800_624569_[www.ArtFile.ru].jpg"
         },
         {
-            "albumId": 1,
-            "id": 5,
+            "albumId": "1",
+            "id": "5",
             "title": "natus nisi omnis corporis facere molestiae rerum in",
             "url": "https://wallpaperscave.ru/images/original/18/02-24/earth-ocean-21358.jpg"
         },
         {
-            "albumId": 1,
-            "id": 6,
+            "albumId": "1",
+            "id": "6",
             "title": "accusamus ea aliquid et amet sequi nemo",
             "url": "https://i.artfile.ru/2560x1600_507937_[www.ArtFile.ru].jpg"
         },
         {
-            "albumId": 1,
-            "id": 7,
+            "albumId": "1",
+            "id": "7",
             "title": "officia delectus consequatur vero aut veniam explicabo molestias",
             "url": "http://getwallpapers.com/wallpaper/full/e/5/6/1281502-download-ocean-horizon-wallpaper-3840x2160.jpg"
         },
         {
-            "albumId": 1,
-            "id": 8,
+            "albumId": "1",
+            "id": "8",
             "title": "aut porro officiis laborum odit ea laudantium corporis",
             "url": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701310890.jpg"
         },
         {
-            "albumId": 1,
-            "id": 9,
+            "albumId": "1",
+            "id": "9",
             "title": "qui eius qui autem sed",
             "url": "https://i.artfile.ru/2560x1600_475746_[www.ArtFile.ru].jpg"
         },
         {
-            "albumId": 1,
-            "id": 10,
+            "albumId": "1",
+            "id": "10",
             "title": "beatae et provident et ut vel",
             "url": "https://cdn.pixabay.com/photo/2015/03/26/09/40/ocean-690056_1280.jpg"
         },
         {
-            "albumId": 1,
-            "id": 11,
+            "albumId": "1",
+            "id": "11",
             "title": "nihil at amet non hic quia qui",
             "url": "https://images.wallpaperscraft.ru/image/more_okean_priboj_kamni_pena_116558_5753x3835.jpg"
         },
         {
-            "albumId": 1,
-            "id": 12,
+            "albumId": "1",
+            "id": "12",
             "title": "mollitia soluta ut rerum eos aliquam consequatur perspiciatis maiores",
             "url": "https://img3.goodfon.ru/original/2048x1365/1/4d/tihiy-okean-francuzskaya.jpg"
         },
         {
-            "albumId": 1,
-            "id": 13,
+            "albumId": "1",
+            "id": "13",
             "title": "repudiandae iusto deleniti rerum",
             "url": "https://potokmedia.ru/wp-content/uploads/2019/02/235.jpg"
         },
         {
-            "albumId": 1,
-            "id": 14,
+            "albumId": "1",
+            "id": "14",
             "title": "est necessitatibus architecto ut laborum",
             "url": "https://img5.goodfon.ru/wallpaper/nbig/2/72/leto-more-okean-voda-nebo-solntse-pliazh-pesok-volny-bereg-p.jpg"
         },
         {
-            "albumId": 1,
-            "id": 15,
+            "albumId": "1",
+            "id": "15",
             "title": "harum dicta similique quis dolore earum ex qui",
             "url": "https://img1.goodfon.ru/original/1920x1080/3/19/maldivy-ostrova-okean-solnce.jpg"
         },
         {
-            "albumId": 1,
-            "id": 16,
+            "albumId": "1",
+            "id": "16",
             "title": "iusto sunt nobis quasi veritatis quas expedita voluptatum deserunt",
             "url": "https://i.artfile.ru/1920x1280_511116_[www.ArtFile.ru].jpg"
         },
         {
-            "albumId": 1,
-            "id": 17,
+            "albumId": "1",
+            "id": "17",
             "title": "natus doloribus necessitatibus ipsa",
             "url": "https://s1.1zoom.me/b5050/605/Sea_Sunrises_and_sunsets_Clouds_563611_2048x1152.jpg"
         },
         {
-            "albumId": 1,
-            "id": 18,
+            "albumId": "1",
+            "id": "18",
             "title": "laboriosam odit nam necessitatibus et illum dolores reiciendis",
             "url": "https://avatars.mds.yandex.net/get-pdb/2796516/aa395877-6c76-4c19-84c9-488b51e7744d/s1200?webp=false"
         },
         {
-            "albumId": 1,
-            "id": 19,
+            "albumId": "1",
+            "id": "19",
             "title": "perferendis nesciunt eveniet et optio a",
             "url": "https://wallbox.ru/wallpapers/main/201421/dec17e68a5ae906.jpg"
         },
         {
-            "albumId": 1,
-            "id": 20,
+            "albumId": "1",
+            "id": "20",
             "title": "assumenda voluptatem laboriosam enim consequatur veniam placeat reiciendis error",
             "url": "https://get.wallhere.com/photo/sea-shore-beach-waves-coast-cape-ocean-wave-body-of-water-geological-phenomenon-wind-wave-225209.jpg"
         },
         {
-            "albumId": 1,
-            "id": 21,
+            "albumId": "1",
+            "id": "21",
             "title": "ad et natus qui",
             "url": "https://bugaga.ru/uploads/posts/2008-05/1210268315_50372_poster2000.jpg"
         },
         {
-            "albumId": 2,
-            "id": 53,
+            "albumId": "2",
+            "id": "53",
             "title": "soluta et harum aliquid officiis ab omnis consequatur",
             "url": "https://i12.fotocdn.net/s109/e7367cc07f744642/public_pin_l/2399886259.jpg"
         },
         {
-            "albumId": 2,
-            "id": 54,
+            "albumId": "2",
+            "id": "54",
             "title": "ut ex quibusdam dolore mollitia",
             "url": "https://i.pinimg.com/originals/09/6b/04/096b045537e6409ea104500c4afdfe18.jpg"
         },
         {
-            "albumId": 3,
-            "id": 112,
+            "albumId": "3",
+            "id": "112",
             "title": "laudantium quibusdam inventore",
             "url": "https://i04.fotocdn.net/s113/1e9a8c0d56b87200/public_pin_l/2550498138.jpg"
         }
